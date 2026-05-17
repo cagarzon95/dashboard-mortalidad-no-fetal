@@ -1,0 +1,12 @@
+CATEGORIA_EDAD,RANGO_EDAD,TOTAL,ORDEN_EDAD
+Mortalidad neonatal,Menor de 1 mes,4520,0
+Mortalidad infantil,1 a 11 meses,2771,1
+Primera infancia,1 a 4 años,1518,2
+Niñez,5 a 14 años,1993,3
+Adolescencia,15 a 19 años,3795,4
+Juventud,20 a 29 años,11840,5
+Adultez temprana,30 a 44 años,17276,6
+Adultez intermedia,45 a 59 años,29105,7
+Vejez,60 a 84 años,115453,8
+Longevidad / Centenarios,85 a 100+ años,56061,9
+Edad desconocida,Sin información,23,10

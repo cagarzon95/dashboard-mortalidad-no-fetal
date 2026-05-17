@@ -1,0 +1,14 @@
+.venv/
+venv/
+env/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+build/
+dist/
+*.pyc
+*.log
+.DS_Store
+.env
+Aplicaciones web analíticas con Python y Dash.pdf
+Archivo Json.png

@@ -1,0 +1,24 @@
+{
+  "total_deaths": 244355,
+  "top_department": {
+    "name": "BOGOTÁ, D.C.",
+    "code": "11",
+    "total": 38760
+  },
+  "top_month": {
+    "name": "Diciembre",
+    "code": "12",
+    "total": 21678
+  },
+  "top_cause": {
+    "code": "I219",
+    "name": "Infarto agudo del miocardio, sin otra especificacion",
+    "total": 35088
+  },
+  "top_x95_city": {
+    "name": "SANTIAGO DE CALI",
+    "department": "VALLE DEL CAUCA",
+    "code": "76001",
+    "total": 971
+  }
+}
