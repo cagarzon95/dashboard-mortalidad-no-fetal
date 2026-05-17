@@ -126,7 +126,7 @@ Esto permite que Render regenere los archivos procesados durante el build y arra
 
 ## 12. Enlaces del proyecto
 - Repositorio GitHub: [https://github.com/cagarzon95/dashboard-mortalidad-no-fetal](https://github.com/cagarzon95/dashboard-mortalidad-no-fetal)
-- URL de la aplicación desplegada: pendiente de actualización
+- URL de la aplicación desplegada: [https://dashboard-mortalidad-no-fetal.onrender.com](https://dashboard-mortalidad-no-fetal.onrender.com)
 
 ## 13. Evidencia de pruebas realizadas
 Pruebas ejecutadas localmente:
@@ -138,6 +138,7 @@ Resultado observado:
 - preparación de datos exitosa;
 - `10 passed` en pytest;
 - la aplicación respondió correctamente en `http://127.0.0.1:8050`.
+- Se generó un PDF con captura del dashboard desplegado en Render como evidencia visual de funcionamiento.
 
 ## 14. Limitaciones conocidas
 - El análisis de "menor mortalidad" se presenta como conteo absoluto de defunciones, no como tasa poblacional, porque el conjunto de datos no incluye población municipal.
